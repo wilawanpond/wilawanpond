@@ -6,7 +6,7 @@ I am an IT undergraduate at Stamford International University. I love working wi
 
 ## General Skills 💗
 
-<img src="https://i.pinimg.com/236x/20/fe/09/20fe098a66bd3798f0439cf459c87d21.jpg" alt="meme" align="right" width="400" height="auto" />
+<img src="https://i.pinimg.com/236x/20/fe/09/20fe098a66bd3798f0439cf459c87d21.jpg" alt="meme" align="right" width="300" height="auto" />
 
 ### Languages (Polyglot)
 * Thai: Native
