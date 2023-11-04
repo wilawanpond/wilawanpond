@@ -4,6 +4,14 @@
 ## About Me 💗
 I am an IT undergraduate at Stamford International University. I love working with data and doing analysis, so data analyst is my dream! Besides programming, I enjoy reading, playing guitar, eating mint chocolate ice cream, and cooking. I also passionate about science and languages.
 
+## General Skills 💗
+### Languages
+:thailand: Thai: Native
+:us: English: Fluent
+:cn: Chinese: Intermediate
+:jp: Japanese: Beginner
+:kr: Korean: Beginner
+
 ## 🦋 I'm currently learning:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
