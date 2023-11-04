@@ -48,4 +48,4 @@ I am an IT undergraduate at Stamford International University. I love working wi
 :rabbit2: Social media is not really my thing but here is my [Instagram](https://www.instagram.com/ms.lihua/)  
 :rabbit2: I love listening to music, you can listen to my playlists on [Spotify](https://open.spotify.com/user/21czzcgvdvw74bttvd7uoa27i)  
 :rabbit2: You can also watch my video on [YouTube](https://www.youtube.com/channel/UC2Ue_owuEg-g0ugJ5WtPUAQ)  
-:rabbit2: And connect with me on [LinkdIn](https://www.linkedin.com/in/wilawan-phadungphol-b819911b7/)  
+:rabbit2: And connect with me on [LinkedIn](https://www.linkedin.com/in/wilawan-phadungphol-b819911b7/)  
