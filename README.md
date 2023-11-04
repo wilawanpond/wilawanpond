@@ -1,5 +1,4 @@
-![image](https://github.com/wilawanpond/wilawanpond/assets/79263616/3bef3a36-17c2-4c5b-b12c-e71bb4591ad2)## Greetings Earthling, I'm Wilawan 👋🏻💗
-![image](https://drive.google.com/uc?export=view&id=1G2wIxDaAYZdaduWQ5sCc-g9lsK3FGmdh)
+## Greetings Earthling, I'm Wilawan 👋🏻💗
 
 ## About Me 💗
 I am an IT undergraduate at Stamford International University. I love working with data and doing analysis, so data analyst is my dream! Besides programming, I enjoy reading, playing guitar, eating mint chocolate ice cream, and cooking. I also passionate about science and languages.
@@ -7,8 +6,7 @@ I am an IT undergraduate at Stamford International University. I love working wi
 ## General Skills 💗
 ### Languages (Polyglot)
 
-<img src="https://cdn.yoyochinese.com/attachment/upload/blog/image/1564532178167.jpg" alt="meme" align="right" width="200" height="auto" />
-<img src="https://mandarincompanion.com/wp-content/uploads/2023/02/learn-chinese-quickly.png" alt="meme" align="right" width="200" height="auto" />
+<img src="https://i.pinimg.com/originals/b1/30/ae/b130ae9e2784af03f550bd7869af6d4b.gif" alt="side Image" align="right" width="200" height="auto" />
 
 * Thai: Native
 * English: Fluent
