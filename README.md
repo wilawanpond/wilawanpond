@@ -5,7 +5,10 @@
 I am an IT undergraduate at Stamford International University. I love working with data and doing analysis, so data analyst is my dream! Besides programming, I enjoy reading, playing guitar, eating mint chocolate ice cream, and cooking. I also passionate about science and languages.
 
 ## General Skills 💗
-### Languages (BYElingual)
+### Languages (Polyglot)
+
+<img src="https://i.pinimg.com/236x/20/fe/09/20fe098a66bd3798f0439cf459c87d21.jpg" alt="meme" align="right" width="200" height="auto" />
+
 * Thai: Native
 * English: Fluent
 * Chinese: Intermediate
