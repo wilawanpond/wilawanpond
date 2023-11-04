@@ -1,4 +1,4 @@
-## Greetings Earthling, I'm Wilawan 👋🏻💗
+![image](https://github.com/wilawanpond/wilawanpond/assets/79263616/3bef3a36-17c2-4c5b-b12c-e71bb4591ad2)## Greetings Earthling, I'm Wilawan 👋🏻💗
 ![image](https://drive.google.com/uc?export=view&id=1G2wIxDaAYZdaduWQ5sCc-g9lsK3FGmdh)
 
 ## About Me 💗
@@ -6,7 +6,8 @@ I am an IT undergraduate at Stamford International University. I love working wi
 
 ## General Skills 💗
 
-<img src="https://i.pinimg.com/236x/20/fe/09/20fe098a66bd3798f0439cf459c87d21.jpg" alt="meme" align="right" width="300" height="auto" />
+<img src="https://i.pinimg.com/236x/20/fe/09/20fe098a66bd3798f0439cf459c87d21.jpg" alt="meme" align="right" width="200" height="auto" />
+<img src="https://cdn.yoyochinese.com/attachment/upload/blog/image/1564532178167.jpg" alt="meme" align="right" width="200" height="auto" />
 
 ### Languages (Polyglot)
 * Thai: Native
