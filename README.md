@@ -29,7 +29,7 @@ I am an IT undergraduate student at Stamford International University. I love wo
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Languages and Tools 💗
-![My Skills](https://skillicons.dev/icons?i=html,css,js, vscode, idea, py, r, java, mysql, github, git, django, ps, ai)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,idea,py,r,java,mysql,github,git,django,ps,ai&theme=light)](https://skillicons.dev)
 
 ## Know me more 💗
 :rabbit2: I play [OSU!](https://osu.ppy.sh/users/31734772) feel free to reach out if you play too!  
