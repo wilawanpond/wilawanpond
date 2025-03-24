@@ -12,7 +12,7 @@ I am an IT undergraduate student at Stamford International University. I love wo
 * English: Fluent
 * Chinese: Beginner
 * Japanese: Beginner
-* Intalian: Beginner
+* Italian: Beginner
 
 ## 🦋 I'm currently learning:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
