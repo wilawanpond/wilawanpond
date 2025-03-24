@@ -10,9 +10,9 @@ I am an IT undergraduate student at Stamford International University. I love wo
 
 * Thai: Native
 * English: Fluent
-* Chinese: Intermediate
+* Chinese: Beginner
 * Japanese: Beginner
-* Korean: Beginner
+* Intalian: Beginner
 
 ## 🦋 I'm currently learning:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -48,8 +48,8 @@ I am an IT undergraduate student at Stamford International University. I love wo
 
 ## Know me more 💗
 :rabbit2: I play [OSU!](https://osu.ppy.sh/users/31734772) feel free to reach out if you play too!  
-:rabbit2: I also play DOTA 2 as support on [Steam](https://steamcommunity.com/profiles/76561199163712051/) , if you need noob support add me :)  
-:rabbit2: Social media is not really my thing but here is my [Instagram](https://www.instagram.com/ms.lihua/)  
+:rabbit2: I also play DOTA 2 as support on [Steam](https://steamcommunity.com/profiles/76561199163712051/)
+:rabbit2: Social media is not really my thing but here is my [Instagram](https://www.instagram.com/ms.wilawan/)  
 :rabbit2: I love listening to music, you can listen to my playlists on [Spotify](https://open.spotify.com/user/21czzcgvdvw74bttvd7uoa27i)  
 :rabbit2: You can also watch my video on [YouTube](https://www.youtube.com/channel/UC2Ue_owuEg-g0ugJ5WtPUAQ)  
 :rabbit2: And connect with me on [LinkedIn](https://www.linkedin.com/in/wilawan-phadungphol-b819911b7/)  
